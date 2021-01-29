@@ -1,15 +1,3 @@
----
-layout: page
-title: About
-permalink: /about/
----
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+用来记录一些自己的学习经历.
+如果你有更好的想法想与我交流,请跟我发邮件:
+1015199227@qq.com
