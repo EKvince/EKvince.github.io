@@ -10,7 +10,7 @@ Navicat Premium 15
 
 登陆Microsoft SQL Server Management Studio
 
-![img](/images/SQL server 连接Navicat/2.1.png
+![photo](../images/SQL%20server%20连接Navicat/2.1.png)
 
 点开安全性->登录名->右键登录名->新建登录名
 
